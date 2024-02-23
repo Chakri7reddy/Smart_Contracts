@@ -7,7 +7,7 @@ module.exports = {
   networks: {
     hardhat: {},
     sepolia: {
-      url: "<https://eth-sepolia.g.alchemy.com/v2/J5Ah37TU4Uo37zYajlKcBMBLprny_PQj>",
+      url: "https://eth-sepolia.g.alchemy.com/v2/J5Ah37TU4Uo37zYajlKcBMBLprny_PQj",
       accounts: [`0x${PRIVATE_KEY}`],
     },
   },
